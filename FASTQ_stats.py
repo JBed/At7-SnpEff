@@ -2,8 +2,6 @@
 __usage__ = """
 		python FASTQ_stats.py\n
 		--in_file <FULL_PATH_TO_FASTQ_FILE> |	--in_dir <FULL_PATH_TO_DIRECTORY>
-		
-		bug reports and feature requests: bpucker@cebitec.uni-bielefeld.de
 		"""
 
 import sys, gzip, glob

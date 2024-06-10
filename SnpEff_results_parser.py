@@ -3,8 +3,6 @@ __usage__ = """
 					--in <FULL_PATH_TO_INPUT_VCF>
 					--out <FULL_PATH_TO_OUTPUT_TEXT_FILE>
 					--anno <ANNOTATION_FILE>
-					
-					bug reports and feature requests: bpucker@cebitec.uni-bielefeld.de
 					"""
 
 import re, sys

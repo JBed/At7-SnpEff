@@ -3,8 +3,6 @@ __usage__ = """
 					--vcf <FULL_PATH_TO_VCF_FILE>
 					--gff <FULL_PATH_TO_GFF3_FILE>
 					--out <FULL_PATH_TO_OUTPUT_FOLDER>
-					
-					bug reports and feature requests: bpucker@cebitec.uni-bielefeld.de
 					"""
 
 

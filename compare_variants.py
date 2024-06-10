@@ -3,8 +3,6 @@ __usage__ = """
 					--vcf1 <FULL_PATH_TO_VCF_FILE1>
 					--vcf2 <FULL_PATH_TO_VCF_FILE2>
 					--out <FULL_PATH_TO_OUTPUT_FILE>
-					
-					bug reports and feature requests: bpucker@cebitec.uni-bielefeld.de
 					"""
 
 import numpy as np
