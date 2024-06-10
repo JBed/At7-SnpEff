@@ -1,2 +1,2 @@
 # At7-SnpEff
-At7 SNP Detection Effectiveness
+At7 SnpEff Analysis
